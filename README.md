@@ -9,7 +9,7 @@ This system integrates:
 
 ---
 
-## 🚀 Features
+##  Features
 - Extracts words + bounding boxes using OCR  
 - Identifies table headers, sub-headers, rows, and columns  
 - Uses LayoutLMv3 for spatial-text understanding  
@@ -19,7 +19,7 @@ This system integrates:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python  
 - Tesseract OCR  
 - LayoutLMv3 (Transformers)  
@@ -28,7 +28,7 @@ This system integrates:
 
 ---
 
-## 📌 Usage
+##  Usage
 ```bash
 python run.py
 ```
@@ -41,5 +41,4 @@ python run.py
 
 ---
 
-## 🧑‍💻 Author
-cutieluu 💗
+
