@@ -1,0 +1,11 @@
+torch
+torchvision
+transformers
+pillow
+pytesseract
+opencv-python
+numpy
+pandas
+pydantic
+python-dotenv
+pdf2image
